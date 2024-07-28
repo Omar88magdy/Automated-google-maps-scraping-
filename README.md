@@ -60,7 +60,7 @@ cd Downloads
 ls Downloads
   ```
 
-3. Navigate to the direcory
+3. Navigate to the directory
   ```sh
 cd Automated-google-maps-scraping-
    ```
